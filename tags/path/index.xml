@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>path | Chaitanya Rahalkar</title>
-    <link>https://www.cc.gatech.edu/~crahalkar3/tags/path/</link>
-      <atom:link href="https://www.cc.gatech.edu/~crahalkar3/tags/path/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/path/</link>
+      <atom:link href="/tags/path/index.xml" rel="self" type="application/rss+xml" />
     <description>path</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2021</copyright><lastBuildDate>Wed, 08 May 2019 16:59:15 +0000</lastBuildDate>
     <image>
-      <url>https://www.cc.gatech.edu/~crahalkar3/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>path</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/tags/path/</link>
+      <link>/tags/path/</link>
     </image>
     
     <item>
       <title>PATH Environment Variable in Linux/Unix</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/path-environment-variable-in-linux-unix/</link>
+      <link>/post/path-environment-variable-in-linux-unix/</link>
       <pubDate>Wed, 08 May 2019 16:59:15 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/path-environment-variable-in-linux-unix/</guid>
+      <guid>/post/path-environment-variable-in-linux-unix/</guid>
       <description>
 
 &lt;h5 id=&#34;what-is-the-path-environment-variable&#34;&gt;What is the $PATH environment variable?&lt;/h5&gt;

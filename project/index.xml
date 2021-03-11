@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Chaitanya Rahalkar</title>
-    <link>https://www.cc.gatech.edu/~crahalkar3/project/</link>
-      <atom:link href="https://www.cc.gatech.edu/~crahalkar3/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2021</copyright><lastBuildDate>Wed, 18 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.cc.gatech.edu/~crahalkar3/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Projects</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/project/</link>
+      <link>/project/</link>
     </image>
     
     <item>
       <title>Cedit</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/project/cedit/</link>
+      <link>/project/cedit/</link>
       <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/project/cedit/</guid>
+      <guid>/project/cedit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cyberfort CTF</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/project/cyberfort/</link>
+      <link>/project/cyberfort/</link>
       <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/project/cyberfort/</guid>
+      <guid>/project/cyberfort/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Frost Linux</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/project/frost-linux/</link>
+      <link>/project/frost-linux/</link>
       <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/project/frost-linux/</guid>
+      <guid>/project/frost-linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Password Manager</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/project/password-manager/</link>
+      <link>/project/password-manager/</link>
       <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/project/password-manager/</guid>
+      <guid>/project/password-manager/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WebTTY</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/project/webtty/</link>
+      <link>/project/webtty/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/project/webtty/</guid>
+      <guid>/project/webtty/</guid>
       <description></description>
     </item>
     

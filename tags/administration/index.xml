@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>administration | Chaitanya Rahalkar</title>
-    <link>https://www.cc.gatech.edu/~crahalkar3/tags/administration/</link>
-      <atom:link href="https://www.cc.gatech.edu/~crahalkar3/tags/administration/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/administration/</link>
+      <atom:link href="/tags/administration/index.xml" rel="self" type="application/rss+xml" />
     <description>administration</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2021</copyright><lastBuildDate>Thu, 16 May 2019 04:39:06 +0000</lastBuildDate>
     <image>
-      <url>https://www.cc.gatech.edu/~crahalkar3/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>administration</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/tags/administration/</link>
+      <link>/tags/administration/</link>
     </image>
     
     <item>
       <title>A Guide to Partitions &amp; Partitioning Drives in Linux</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/a-guide-to-partitions-partitioning-drives-in-linux/</link>
+      <link>/post/a-guide-to-partitions-partitioning-drives-in-linux/</link>
       <pubDate>Thu, 16 May 2019 04:39:06 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/a-guide-to-partitions-partitioning-drives-in-linux/</guid>
+      <guid>/post/a-guide-to-partitions-partitioning-drives-in-linux/</guid>
       <description>
 
 &lt;p&gt;Linux has completely different naming conventions while mounting drives as compared to Windows. /dev/sda,/dev/sdb,/dev/sdc etc. are the conventions in Linux.&lt;/p&gt;

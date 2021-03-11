@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>databases | Chaitanya Rahalkar</title>
-    <link>https://www.cc.gatech.edu/~crahalkar3/tags/databases/</link>
-      <atom:link href="https://www.cc.gatech.edu/~crahalkar3/tags/databases/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/databases/</link>
+      <atom:link href="/tags/databases/index.xml" rel="self" type="application/rss+xml" />
     <description>databases</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2021</copyright><lastBuildDate>Sat, 21 Apr 2018 14:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.cc.gatech.edu/~crahalkar3/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>databases</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/tags/databases/</link>
+      <link>/tags/databases/</link>
     </image>
     
     <item>
       <title>MongoDB (NoSQL Databases)</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/talk/no-sql/</link>
+      <link>/talk/no-sql/</link>
       <pubDate>Sat, 21 Apr 2018 14:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/talk/no-sql/</guid>
+      <guid>/talk/no-sql/</guid>
       <description>&lt;p&gt;Get a copy of the talk slides &lt;a href=&#34;https://bit.ly/mongodbdemo&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

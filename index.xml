@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chaitanya Rahalkar</title>
-    <link>https://www.cc.gatech.edu/~crahalkar3/</link>
-      <atom:link href="https://www.cc.gatech.edu/~crahalkar3/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Chaitanya Rahalkar</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2021</copyright><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.cc.gatech.edu/~crahalkar3/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Chaitanya Rahalkar</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>End-to-End Lung Cancer Diagnosis on Computed Tomography Scans using 3D CNN and Explainable AI</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/publication/e2e-dl/</link>
+      <link>/publication/e2e-dl/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/publication/e2e-dl/</guid>
+      <guid>/publication/e2e-dl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Content Addressed Peer-to-Peer File System for the Web with Blockchain-based Metadata Integrity</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/publication/ca-fs/</link>
+      <link>/publication/ca-fs/</link>
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/publication/ca-fs/</guid>
+      <guid>/publication/ca-fs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Generative Adversarial Networks for Secure Pseudorandom Number Generation</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/publication/gan-ccs/</link>
+      <link>/publication/gan-ccs/</link>
       <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/publication/gan-ccs/</guid>
+      <guid>/publication/gan-ccs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hidden Secrets of Python</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/talk/python-pune-sept/</link>
+      <link>/talk/python-pune-sept/</link>
       <pubDate>Sat, 28 Sep 2019 11:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/talk/python-pune-sept/</guid>
+      <guid>/talk/python-pune-sept/</guid>
       <description>&lt;p&gt;Python has a large number of really cool modules that people don&amp;rsquo;t know about. These are quite helpful. People often tend to program the hard way since they don&amp;rsquo;t know about the existence of these modules. Such examples can be the itertools module, the secrets module to generate secure random numbers etc. Get a copy of the talk slides &lt;a href=&#34;https://bit.ly/python-meetups-sept&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>What is Zip Slip?</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/zip-slip/</link>
+      <link>/post/zip-slip/</link>
       <pubDate>Fri, 20 Sep 2019 10:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/zip-slip/</guid>
+      <guid>/post/zip-slip/</guid>
       <description>&lt;p&gt;Zip Slip was a vulnerability found in the file extraction mechanism employed in programming languages. It was discovered and responsibly disclosed by the Snyk Security team ahead of a public disclosure on 5th June 2018, and affected thousands of projects, including ones from HP, Amazon, Apache, Pivotal. The vulnerability is prevalent in Java, where there is no central library offering high level processing of archives. It was also observed in Go &amp;amp; Python. Zip slip caused havoc on its public disclosure. Zip Slip allowed for remote code execution, thereby granting shell privileges to an adversary. The vulnerability can affect other formats like &lt;code&gt;tar&lt;/code&gt;, &lt;code&gt;jar&lt;/code&gt;, &lt;code&gt;war&lt;/code&gt;,&lt;code&gt;cpio&lt;/code&gt;,&lt;code&gt;apk&lt;/code&gt;,&lt;code&gt;rar&lt;/code&gt; etc.&lt;/p&gt;
 
 &lt;p&gt;Consider a zip file (&lt;code&gt;foo.zip&lt;/code&gt;) with two files bundled in it - &lt;code&gt;foo.text&lt;/code&gt; and &lt;code&gt;bar.text&lt;/code&gt;&lt;/p&gt;
@@ -91,25 +91,25 @@ Total 2 entries (560 bytes)
     
     <item>
       <title>Cedit</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/project/cedit/</link>
+      <link>/project/cedit/</link>
       <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/project/cedit/</guid>
+      <guid>/project/cedit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cyberfort CTF</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/project/cyberfort/</link>
+      <link>/project/cyberfort/</link>
       <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/project/cyberfort/</guid>
+      <guid>/project/cyberfort/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding Dirty COW - The Linux Kernel Exploit</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/understanding-dirty-cow-the-infamous-linux-kernel-exploit/</link>
+      <link>/post/understanding-dirty-cow-the-infamous-linux-kernel-exploit/</link>
       <pubDate>Mon, 16 Sep 2019 04:15:02 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/understanding-dirty-cow-the-infamous-linux-kernel-exploit/</guid>
+      <guid>/post/understanding-dirty-cow-the-infamous-linux-kernel-exploit/</guid>
       <description>
 
 &lt;p&gt;Dirty COW is a computer security vulnerability that was discovered in the Linux Kernel in 2016. The exploit was registered under CVE with the designation: CVE-2016-5195. Dirty COW is a root privilege escalation exploit that attacks the Copy-On-Write mechanism in the Linux Kernel. Hence the &amp;ldquo;COW&amp;rdquo; in Dirty COW. The proof of concept can be found &lt;a href=&#34;http://dirtycow.ninja&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -223,33 +223,33 @@ Thread 2
     
     <item>
       <title>A Secure Password Manager</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/publication/pwm-ijca/</link>
+      <link>/publication/pwm-ijca/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/publication/pwm-ijca/</guid>
+      <guid>/publication/pwm-ijca/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Frost Linux</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/project/frost-linux/</link>
+      <link>/project/frost-linux/</link>
       <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/project/frost-linux/</guid>
+      <guid>/project/frost-linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Password Manager</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/project/password-manager/</link>
+      <link>/project/password-manager/</link>
       <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/project/password-manager/</guid>
+      <guid>/project/password-manager/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What is an Electronic Nose?</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/what-is-an-electronic-nose/</link>
+      <link>/post/what-is-an-electronic-nose/</link>
       <pubDate>Sun, 14 Jul 2019 11:00:01 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/what-is-an-electronic-nose/</guid>
+      <guid>/post/what-is-an-electronic-nose/</guid>
       <description>&lt;p&gt;Alexander Graham Bell once said- “Did you ever measure a smell? Can you tell whether one smell is just twice strong as another? Can you measure the difference between two kinds of smell and another? It is very obvious that we have very many different kinds of smells, all the way from the odour of violets and roses up to asafetida. But until you can measure their likeness and differences, you can have no science of odour. If you are ambitious to find a new science, measure a smell.” An electric nose is a device which has the capability of detecting, identifying and discriminating the presence of molecules in a sample of air. It was termed by Gardner and Barlett in 1994. The improvements over the past 20 years have led to the creation of the artificial olfaction technology.&lt;/p&gt;
 
 &lt;p&gt;Electronic noses are based on the mammalian olfactory model. The olfactory receptors that are responsible for detection of odorants in the human body are analogous to the array of electronic sensors in the electronic nose. Biomimetics is a field in which the principles of biology, chemistry and engineering are applied to develop an artificial system that is based on a natural phenomenon. Electronic nose is one example of it.&lt;/p&gt;
@@ -263,9 +263,9 @@ Current research aims to increase the accuracy, reliability and efficiency of th
     
     <item>
       <title>Exploits &amp; Vulnerabilities with Introduction to Metasploit</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/exploits-vulnerabilities-with-introduction-to-metasploit/</link>
+      <link>/post/exploits-vulnerabilities-with-introduction-to-metasploit/</link>
       <pubDate>Fri, 07 Jun 2019 09:09:55 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/exploits-vulnerabilities-with-introduction-to-metasploit/</guid>
+      <guid>/post/exploits-vulnerabilities-with-introduction-to-metasploit/</guid>
       <description>
 
 &lt;h3 id=&#34;exploits-and-vulnerabilities&#34;&gt;Exploits and Vulnerabilities&lt;/h3&gt;
@@ -372,9 +372,9 @@ Here are some of the important commands in Metasploit&lt;/p&gt;
     
     <item>
       <title>File Permissions in Unix/Linux</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/file-permissions-in-unix-linux/</link>
+      <link>/post/file-permissions-in-unix-linux/</link>
       <pubDate>Wed, 05 Jun 2019 01:15:35 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/file-permissions-in-unix-linux/</guid>
+      <guid>/post/file-permissions-in-unix-linux/</guid>
       <description>
 
 &lt;h3 id=&#34;file-permissions&#34;&gt;File Permissions&lt;/h3&gt;
@@ -477,9 +477,9 @@ For example, the root user may have some privileged executables like curl,wget e
     
     <item>
       <title>The Virtual File System</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/the-virtual-file-system/</link>
+      <link>/post/the-virtual-file-system/</link>
       <pubDate>Sat, 01 Jun 2019 14:04:37 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/the-virtual-file-system/</guid>
+      <guid>/post/the-virtual-file-system/</guid>
       <description>
 
 &lt;h3 id=&#34;file-systems-in-linux&#34;&gt;File Systems In Linux&lt;/h3&gt;
@@ -529,9 +529,9 @@ Here is a brief look at the file system structure -&lt;/p&gt;
     
     <item>
       <title>How Your Computer Starts</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/how-your-computer-starts/</link>
+      <link>/post/how-your-computer-starts/</link>
       <pubDate>Sat, 18 May 2019 16:11:17 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/how-your-computer-starts/</guid>
+      <guid>/post/how-your-computer-starts/</guid>
       <description>
 
 &lt;p&gt;Every computer follows a standard boot sequence when it starts up.&lt;/p&gt;
@@ -636,9 +636,9 @@ However in the recent versions init is replaced by a System Management Daemon ca
     
     <item>
       <title>A Guide to Partitions &amp; Partitioning Drives in Linux</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/a-guide-to-partitions-partitioning-drives-in-linux/</link>
+      <link>/post/a-guide-to-partitions-partitioning-drives-in-linux/</link>
       <pubDate>Thu, 16 May 2019 04:39:06 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/a-guide-to-partitions-partitioning-drives-in-linux/</guid>
+      <guid>/post/a-guide-to-partitions-partitioning-drives-in-linux/</guid>
       <description>
 
 &lt;p&gt;Linux has completely different naming conventions while mounting drives as compared to Windows. /dev/sda,/dev/sdb,/dev/sdc etc. are the conventions in Linux.&lt;/p&gt;
@@ -758,9 +758,9 @@ This is a good practice, since it forces completition of pending disk writes. It
     
     <item>
       <title>PATH Environment Variable in Linux/Unix</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/path-environment-variable-in-linux-unix/</link>
+      <link>/post/path-environment-variable-in-linux-unix/</link>
       <pubDate>Wed, 08 May 2019 16:59:15 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/path-environment-variable-in-linux-unix/</guid>
+      <guid>/post/path-environment-variable-in-linux-unix/</guid>
       <description>
 
 &lt;h5 id=&#34;what-is-the-path-environment-variable&#34;&gt;What is the $PATH environment variable?&lt;/h5&gt;
@@ -829,9 +829,9 @@ The same thing can also be done by creating a symbolic link which will be discus
     
     <item>
       <title>Virtualisation in Operating Systems</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/virtualisation-in-operating-systems/</link>
+      <link>/post/virtualisation-in-operating-systems/</link>
       <pubDate>Sat, 06 Apr 2019 12:05:37 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/virtualisation-in-operating-systems/</guid>
+      <guid>/post/virtualisation-in-operating-systems/</guid>
       <description>
 
 &lt;p&gt;Virtualisation is the process of creating a virtual version of a physical object.&lt;/p&gt;
@@ -880,17 +880,17 @@ Eg. VirutalBox,Parallel Desktop&lt;/p&gt;&lt;/li&gt;
     
     <item>
       <title>WebTTY</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/project/webtty/</link>
+      <link>/project/webtty/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/project/webtty/</guid>
+      <guid>/project/webtty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hidden Secrets of Python</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/slides/python_workshop_meetups/</link>
+      <link>/slides/python_workshop_meetups/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/slides/python_workshop_meetups/</guid>
+      <guid>/slides/python_workshop_meetups/</guid>
       <description>
 
 &lt;h2 id=&#34;get-a-copy-of-this-notebook-here-https-bit-ly-python-meetups-sept&#34;&gt;Get a copy of this notebook &lt;a href=&#34;https://bit.ly/python-meetups-sept&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/h2&gt;
@@ -1504,9 +1504,9 @@ California
     
     <item>
       <title>Ethics for Platforms</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/talk/ethics-privacy/</link>
+      <link>/talk/ethics-privacy/</link>
       <pubDate>Wed, 11 Jul 2018 14:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/talk/ethics-privacy/</guid>
+      <guid>/talk/ethics-privacy/</guid>
       <description>&lt;p&gt;How much does the Internet know about you? It is a question that most of us will struggle to answer today. This illiteracy and nescience about the internal working of products and services that we use daily can prove to be exceedingly dangerous. The blind trust and complete faith of consumers in dot-com companies is being exploited at unprecedented levels, without the knowledge of the said beneficiaries. The lack of transparency in how our messages and other private data moves through the Internet, and how these tech giants make use of it has forced leaders like Tim Berners-Lee, founder of the WWW to radically overhaul his own creation! Migrating to a “Decentralized Internet” may seem like a longshot at best, but it is a necessary transition that all of us will have to make when an eventual tipping point is reached and the people realize that the “Data belongs to me”.&lt;/p&gt;
 
 &lt;p&gt;Ask a 10-year-old Jack what Facebook is for, and he’ll tell you it is “to help me make friends”
@@ -1520,18 +1520,18 @@ With the Indian SC declaring privacy as a “fundamental” right, it is clear t
     
     <item>
       <title>MongoDB (NoSQL Databases)</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/talk/no-sql/</link>
+      <link>/talk/no-sql/</link>
       <pubDate>Sat, 21 Apr 2018 14:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/talk/no-sql/</guid>
+      <guid>/talk/no-sql/</guid>
       <description>&lt;p&gt;Get a copy of the talk slides &lt;a href=&#34;https://bit.ly/mongodbdemo&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Content Addressed Peer-to-Peer File System for the Web with Blockchain-Based Metadata Integrity</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/talk/content-addressed-filesystem/</link>
+      <link>/talk/content-addressed-filesystem/</link>
       <pubDate>Tue, 27 Mar 2018 11:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/talk/content-addressed-filesystem/</guid>
+      <guid>/talk/content-addressed-filesystem/</guid>
       <description>&lt;p&gt;With the exponentially scaled World Wide Web, the standard HTTP protocol has started showing its limitations. With an increased amount of data duplication &amp;amp; accidental deletion of files on the Internet, the P2P file system called IPFS completely changes the way files are stored. IPFS is a file storage protocol allowing files to be stored on decentralized systems. In the HTTP client-server protocol, files are downloaded  has from a single source. With files stored on a decentralized network, IPFS allows packet retrieval from multiple sources, simultaneously saving considerable bandwidth. IPFS uses a content-addressed block storage model with content-addressed hyperlinks. Large amounts of data can is addressable with IPFS with the immutable and permanent IPFS links with meta-data stored as Blockchain transactions. This timestamps and secures the data, instead of having to put it on the chain itself. Our paper proposes a model to use the decentralized file storage system of IPFS, and the integrity preservation properties of the Blockchain, to store and distribute data on the Web.&lt;/p&gt;
 
 &lt;p&gt;With the ever-expanding World Wide Web, the data generated on the web has grown vastly. The amount of data generated daily is at a staggering 2.5 quintillion bytes. This pace is gaining constant momentum due to the inclusion of new IoT devices every day. Sensory data produced by IoT devices get bulkier as modern devices are added to the Internet. To counter the problem of data handling, many distributed file systems were introduced. The popular ones being Napster, BitTorrent, KaZaA, supporting millions of distributed users. Among all of them, HTTP - one of the oldest protocols on the Internet is the biggest distributed file system, when coupled with browsers allowing users to share files globally. With the increase in the scalability of the World Wide Web, the reliability of  HTTP began to degrade. Keeping track of terabytes of data and moving these files over the Web is a difficult task. Several other protocols were introduced to tackle the problem of scalability and decentralization with an intention of replacing the well-established reign of HTTP.
@@ -1543,18 +1543,18 @@ The other problem with HTTP is security and data integrity. As a countermeasure,
     
     <item>
       <title>Cryptocurrencies and Blockchain</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/talk/crypto-blockchain/</link>
+      <link>/talk/crypto-blockchain/</link>
       <pubDate>Fri, 25 Aug 2017 11:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/talk/crypto-blockchain/</guid>
+      <guid>/talk/crypto-blockchain/</guid>
       <description>&lt;p&gt;Get a copy of the talk slides &lt;a href=&#34;https://github.com/chaitanyarahalkar/temporary-uploads/raw/master/Cryptocurrencies%20and%20Blockchain.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Awesome Learning</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/awesome-learning/</link>
+      <link>/awesome-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/awesome-learning/</guid>
+      <guid>/awesome-learning/</guid>
       <description>
 
 &lt;p&gt;I love to explore the vast field of Computer Science. I&amp;rsquo;ve dabbled with a variety of stuff over the past few years. While doing so, I&amp;rsquo;ve had to invest considerable amount of time in digging up resources from the corners of the Web. Also, people often ask me for suggestions regarding tutorials and courses about something they wish to learn.&lt;/p&gt;

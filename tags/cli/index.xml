@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cli | Chaitanya Rahalkar</title>
-    <link>https://www.cc.gatech.edu/~crahalkar3/tags/cli/</link>
-      <atom:link href="https://www.cc.gatech.edu/~crahalkar3/tags/cli/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/cli/</link>
+      <atom:link href="/tags/cli/index.xml" rel="self" type="application/rss+xml" />
     <description>cli</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2021</copyright><lastBuildDate>Wed, 05 Jun 2019 01:15:35 +0000</lastBuildDate>
     <image>
-      <url>https://www.cc.gatech.edu/~crahalkar3/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>cli</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/tags/cli/</link>
+      <link>/tags/cli/</link>
     </image>
     
     <item>
       <title>File Permissions in Unix/Linux</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/file-permissions-in-unix-linux/</link>
+      <link>/post/file-permissions-in-unix-linux/</link>
       <pubDate>Wed, 05 Jun 2019 01:15:35 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/file-permissions-in-unix-linux/</guid>
+      <guid>/post/file-permissions-in-unix-linux/</guid>
       <description>
 
 &lt;h3 id=&#34;file-permissions&#34;&gt;File Permissions&lt;/h3&gt;

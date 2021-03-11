@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>meetups | Chaitanya Rahalkar</title>
-    <link>https://www.cc.gatech.edu/~crahalkar3/tags/meetups/</link>
-      <atom:link href="https://www.cc.gatech.edu/~crahalkar3/tags/meetups/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/meetups/</link>
+      <atom:link href="/tags/meetups/index.xml" rel="self" type="application/rss+xml" />
     <description>meetups</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2021</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.cc.gatech.edu/~crahalkar3/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>meetups</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/tags/meetups/</link>
+      <link>/tags/meetups/</link>
     </image>
     
     <item>
       <title>Hidden Secrets of Python</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/slides/python_workshop_meetups/</link>
+      <link>/slides/python_workshop_meetups/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/slides/python_workshop_meetups/</guid>
+      <guid>/slides/python_workshop_meetups/</guid>
       <description>
 
 &lt;h2 id=&#34;get-a-copy-of-this-notebook-here-https-bit-ly-python-meetups-sept&#34;&gt;Get a copy of this notebook &lt;a href=&#34;https://bit.ly/python-meetups-sept&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/h2&gt;

@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Chaitanya Rahalkar</title>
-    <link>https://www.cc.gatech.edu/~crahalkar3/authors/</link>
-      <atom:link href="https://www.cc.gatech.edu/~crahalkar3/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2021</copyright><lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.cc.gatech.edu/~crahalkar3/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/authors/</link>
+      <link>/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/authors/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/authors/admin/</guid>
+      <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a Computer Engineer in the making and a Tech enthusiast at heart. I love exploring and talking about Computer internals. My passion lies in building things with my power of programming. Check out my noteworthy projects and Open Source contributions on &lt;a href=&#34;https://github.com/chaitanyarahalkar&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Anushka Virgaonkar</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/authors/anushka-virgaonkar/</link>
+      <link>/authors/anushka-virgaonkar/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/authors/anushka-virgaonkar/</guid>
+      <guid>/authors/anushka-virgaonkar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dhaval Gujar</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/authors/dhaval-gujar/</link>
+      <link>/authors/dhaval-gujar/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/authors/dhaval-gujar/</guid>
+      <guid>/authors/dhaval-gujar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sumedh Patkar</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/authors/sumedh-patkar/</link>
+      <link>/authors/sumedh-patkar/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/authors/sumedh-patkar/</guid>
+      <guid>/authors/sumedh-patkar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rajvardhan Oak</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/authors/rajvardhan-oak/</link>
+      <link>/authors/rajvardhan-oak/</link>
       <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/authors/rajvardhan-oak/</guid>
+      <guid>/authors/rajvardhan-oak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chaitanya Rahalkar</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/authors/chaitanya-rahalkar/</link>
+      <link>/authors/chaitanya-rahalkar/</link>
       <pubDate>Sat, 28 Sep 2019 11:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/authors/chaitanya-rahalkar/</guid>
+      <guid>/authors/chaitanya-rahalkar/</guid>
       <description></description>
     </item>
     

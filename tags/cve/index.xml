@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CVE | Chaitanya Rahalkar</title>
-    <link>https://www.cc.gatech.edu/~crahalkar3/tags/cve/</link>
-      <atom:link href="https://www.cc.gatech.edu/~crahalkar3/tags/cve/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/cve/</link>
+      <atom:link href="/tags/cve/index.xml" rel="self" type="application/rss+xml" />
     <description>CVE</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2021</copyright><lastBuildDate>Mon, 16 Sep 2019 04:15:02 +0000</lastBuildDate>
     <image>
-      <url>https://www.cc.gatech.edu/~crahalkar3/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>CVE</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/tags/cve/</link>
+      <link>/tags/cve/</link>
     </image>
     
     <item>
       <title>Understanding Dirty COW - The Linux Kernel Exploit</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/understanding-dirty-cow-the-infamous-linux-kernel-exploit/</link>
+      <link>/post/understanding-dirty-cow-the-infamous-linux-kernel-exploit/</link>
       <pubDate>Mon, 16 Sep 2019 04:15:02 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/understanding-dirty-cow-the-infamous-linux-kernel-exploit/</guid>
+      <guid>/post/understanding-dirty-cow-the-infamous-linux-kernel-exploit/</guid>
       <description>
 
 &lt;p&gt;Dirty COW is a computer security vulnerability that was discovered in the Linux Kernel in 2016. The exploit was registered under CVE with the designation: CVE-2016-5195. Dirty COW is a root privilege escalation exploit that attacks the Copy-On-Write mechanism in the Linux Kernel. Hence the &amp;ldquo;COW&amp;rdquo; in Dirty COW. The proof of concept can be found &lt;a href=&#34;http://dirtycow.ninja&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;

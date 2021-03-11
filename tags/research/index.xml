@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>research | Chaitanya Rahalkar</title>
-    <link>https://www.cc.gatech.edu/~crahalkar3/tags/research/</link>
-      <atom:link href="https://www.cc.gatech.edu/~crahalkar3/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/research/</link>
+      <atom:link href="/tags/research/index.xml" rel="self" type="application/rss+xml" />
     <description>research</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2021</copyright><lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.cc.gatech.edu/~crahalkar3/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>research</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/tags/research/</link>
+      <link>/tags/research/</link>
     </image>
     
     <item>
       <title>Using Generative Adversarial Networks for Secure Pseudorandom Number Generation</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/publication/gan-ccs/</link>
+      <link>/publication/gan-ccs/</link>
       <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/publication/gan-ccs/</guid>
+      <guid>/publication/gan-ccs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Secure Password Manager</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/publication/pwm-ijca/</link>
+      <link>/publication/pwm-ijca/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/publication/pwm-ijca/</guid>
+      <guid>/publication/pwm-ijca/</guid>
       <description></description>
     </item>
     

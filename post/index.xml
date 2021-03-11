@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Chaitanya Rahalkar</title>
-    <link>https://www.cc.gatech.edu/~crahalkar3/post/</link>
-      <atom:link href="https://www.cc.gatech.edu/~crahalkar3/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2021</copyright><lastBuildDate>Fri, 20 Sep 2019 10:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.cc.gatech.edu/~crahalkar3/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Posts</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/</link>
+      <link>/post/</link>
     </image>
     
     <item>
       <title>What is Zip Slip?</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/zip-slip/</link>
+      <link>/post/zip-slip/</link>
       <pubDate>Fri, 20 Sep 2019 10:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/zip-slip/</guid>
+      <guid>/post/zip-slip/</guid>
       <description>&lt;p&gt;Zip Slip was a vulnerability found in the file extraction mechanism employed in programming languages. It was discovered and responsibly disclosed by the Snyk Security team ahead of a public disclosure on 5th June 2018, and affected thousands of projects, including ones from HP, Amazon, Apache, Pivotal. The vulnerability is prevalent in Java, where there is no central library offering high level processing of archives. It was also observed in Go &amp;amp; Python. Zip slip caused havoc on its public disclosure. Zip Slip allowed for remote code execution, thereby granting shell privileges to an adversary. The vulnerability can affect other formats like &lt;code&gt;tar&lt;/code&gt;, &lt;code&gt;jar&lt;/code&gt;, &lt;code&gt;war&lt;/code&gt;,&lt;code&gt;cpio&lt;/code&gt;,&lt;code&gt;apk&lt;/code&gt;,&lt;code&gt;rar&lt;/code&gt; etc.&lt;/p&gt;
 
 &lt;p&gt;Consider a zip file (&lt;code&gt;foo.zip&lt;/code&gt;) with two files bundled in it - &lt;code&gt;foo.text&lt;/code&gt; and &lt;code&gt;bar.text&lt;/code&gt;&lt;/p&gt;
@@ -58,9 +58,9 @@ Total 2 entries (560 bytes)
     
     <item>
       <title>Understanding Dirty COW - The Linux Kernel Exploit</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/understanding-dirty-cow-the-infamous-linux-kernel-exploit/</link>
+      <link>/post/understanding-dirty-cow-the-infamous-linux-kernel-exploit/</link>
       <pubDate>Mon, 16 Sep 2019 04:15:02 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/understanding-dirty-cow-the-infamous-linux-kernel-exploit/</guid>
+      <guid>/post/understanding-dirty-cow-the-infamous-linux-kernel-exploit/</guid>
       <description>
 
 &lt;p&gt;Dirty COW is a computer security vulnerability that was discovered in the Linux Kernel in 2016. The exploit was registered under CVE with the designation: CVE-2016-5195. Dirty COW is a root privilege escalation exploit that attacks the Copy-On-Write mechanism in the Linux Kernel. Hence the &amp;ldquo;COW&amp;rdquo; in Dirty COW. The proof of concept can be found &lt;a href=&#34;http://dirtycow.ninja&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -174,9 +174,9 @@ Thread 2
     
     <item>
       <title>What is an Electronic Nose?</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/what-is-an-electronic-nose/</link>
+      <link>/post/what-is-an-electronic-nose/</link>
       <pubDate>Sun, 14 Jul 2019 11:00:01 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/what-is-an-electronic-nose/</guid>
+      <guid>/post/what-is-an-electronic-nose/</guid>
       <description>&lt;p&gt;Alexander Graham Bell once said- “Did you ever measure a smell? Can you tell whether one smell is just twice strong as another? Can you measure the difference between two kinds of smell and another? It is very obvious that we have very many different kinds of smells, all the way from the odour of violets and roses up to asafetida. But until you can measure their likeness and differences, you can have no science of odour. If you are ambitious to find a new science, measure a smell.” An electric nose is a device which has the capability of detecting, identifying and discriminating the presence of molecules in a sample of air. It was termed by Gardner and Barlett in 1994. The improvements over the past 20 years have led to the creation of the artificial olfaction technology.&lt;/p&gt;
 
 &lt;p&gt;Electronic noses are based on the mammalian olfactory model. The olfactory receptors that are responsible for detection of odorants in the human body are analogous to the array of electronic sensors in the electronic nose. Biomimetics is a field in which the principles of biology, chemistry and engineering are applied to develop an artificial system that is based on a natural phenomenon. Electronic nose is one example of it.&lt;/p&gt;
@@ -190,9 +190,9 @@ Current research aims to increase the accuracy, reliability and efficiency of th
     
     <item>
       <title>Exploits &amp; Vulnerabilities with Introduction to Metasploit</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/exploits-vulnerabilities-with-introduction-to-metasploit/</link>
+      <link>/post/exploits-vulnerabilities-with-introduction-to-metasploit/</link>
       <pubDate>Fri, 07 Jun 2019 09:09:55 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/exploits-vulnerabilities-with-introduction-to-metasploit/</guid>
+      <guid>/post/exploits-vulnerabilities-with-introduction-to-metasploit/</guid>
       <description>
 
 &lt;h3 id=&#34;exploits-and-vulnerabilities&#34;&gt;Exploits and Vulnerabilities&lt;/h3&gt;
@@ -299,9 +299,9 @@ Here are some of the important commands in Metasploit&lt;/p&gt;
     
     <item>
       <title>File Permissions in Unix/Linux</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/file-permissions-in-unix-linux/</link>
+      <link>/post/file-permissions-in-unix-linux/</link>
       <pubDate>Wed, 05 Jun 2019 01:15:35 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/file-permissions-in-unix-linux/</guid>
+      <guid>/post/file-permissions-in-unix-linux/</guid>
       <description>
 
 &lt;h3 id=&#34;file-permissions&#34;&gt;File Permissions&lt;/h3&gt;
@@ -404,9 +404,9 @@ For example, the root user may have some privileged executables like curl,wget e
     
     <item>
       <title>The Virtual File System</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/the-virtual-file-system/</link>
+      <link>/post/the-virtual-file-system/</link>
       <pubDate>Sat, 01 Jun 2019 14:04:37 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/the-virtual-file-system/</guid>
+      <guid>/post/the-virtual-file-system/</guid>
       <description>
 
 &lt;h3 id=&#34;file-systems-in-linux&#34;&gt;File Systems In Linux&lt;/h3&gt;
@@ -456,9 +456,9 @@ Here is a brief look at the file system structure -&lt;/p&gt;
     
     <item>
       <title>How Your Computer Starts</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/how-your-computer-starts/</link>
+      <link>/post/how-your-computer-starts/</link>
       <pubDate>Sat, 18 May 2019 16:11:17 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/how-your-computer-starts/</guid>
+      <guid>/post/how-your-computer-starts/</guid>
       <description>
 
 &lt;p&gt;Every computer follows a standard boot sequence when it starts up.&lt;/p&gt;
@@ -563,9 +563,9 @@ However in the recent versions init is replaced by a System Management Daemon ca
     
     <item>
       <title>A Guide to Partitions &amp; Partitioning Drives in Linux</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/a-guide-to-partitions-partitioning-drives-in-linux/</link>
+      <link>/post/a-guide-to-partitions-partitioning-drives-in-linux/</link>
       <pubDate>Thu, 16 May 2019 04:39:06 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/a-guide-to-partitions-partitioning-drives-in-linux/</guid>
+      <guid>/post/a-guide-to-partitions-partitioning-drives-in-linux/</guid>
       <description>
 
 &lt;p&gt;Linux has completely different naming conventions while mounting drives as compared to Windows. /dev/sda,/dev/sdb,/dev/sdc etc. are the conventions in Linux.&lt;/p&gt;
@@ -685,9 +685,9 @@ This is a good practice, since it forces completition of pending disk writes. It
     
     <item>
       <title>PATH Environment Variable in Linux/Unix</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/path-environment-variable-in-linux-unix/</link>
+      <link>/post/path-environment-variable-in-linux-unix/</link>
       <pubDate>Wed, 08 May 2019 16:59:15 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/path-environment-variable-in-linux-unix/</guid>
+      <guid>/post/path-environment-variable-in-linux-unix/</guid>
       <description>
 
 &lt;h5 id=&#34;what-is-the-path-environment-variable&#34;&gt;What is the $PATH environment variable?&lt;/h5&gt;
@@ -756,9 +756,9 @@ The same thing can also be done by creating a symbolic link which will be discus
     
     <item>
       <title>Virtualisation in Operating Systems</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/virtualisation-in-operating-systems/</link>
+      <link>/post/virtualisation-in-operating-systems/</link>
       <pubDate>Sat, 06 Apr 2019 12:05:37 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/virtualisation-in-operating-systems/</guid>
+      <guid>/post/virtualisation-in-operating-systems/</guid>
       <description>
 
 &lt;p&gt;Virtualisation is the process of creating a virtual version of a physical object.&lt;/p&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>technology | Chaitanya Rahalkar</title>
-    <link>https://www.cc.gatech.edu/~crahalkar3/tags/technology/</link>
-      <atom:link href="https://www.cc.gatech.edu/~crahalkar3/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/technology/</link>
+      <atom:link href="/tags/technology/index.xml" rel="self" type="application/rss+xml" />
     <description>technology</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2021</copyright><lastBuildDate>Sun, 14 Jul 2019 11:00:01 +0000</lastBuildDate>
     <image>
-      <url>https://www.cc.gatech.edu/~crahalkar3/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>technology</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/tags/technology/</link>
+      <link>/tags/technology/</link>
     </image>
     
     <item>
       <title>What is an Electronic Nose?</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/what-is-an-electronic-nose/</link>
+      <link>/post/what-is-an-electronic-nose/</link>
       <pubDate>Sun, 14 Jul 2019 11:00:01 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/what-is-an-electronic-nose/</guid>
+      <guid>/post/what-is-an-electronic-nose/</guid>
       <description>&lt;p&gt;Alexander Graham Bell once said- “Did you ever measure a smell? Can you tell whether one smell is just twice strong as another? Can you measure the difference between two kinds of smell and another? It is very obvious that we have very many different kinds of smells, all the way from the odour of violets and roses up to asafetida. But until you can measure their likeness and differences, you can have no science of odour. If you are ambitious to find a new science, measure a smell.” An electric nose is a device which has the capability of detecting, identifying and discriminating the presence of molecules in a sample of air. It was termed by Gardner and Barlett in 1994. The improvements over the past 20 years have led to the creation of the artificial olfaction technology.&lt;/p&gt;
 
 &lt;p&gt;Electronic noses are based on the mammalian olfactory model. The olfactory receptors that are responsible for detection of odorants in the human body are analogous to the array of electronic sensors in the electronic nose. Biomimetics is a field in which the principles of biology, chemistry and engineering are applied to develop an artificial system that is based on a natural phenomenon. Electronic nose is one example of it.&lt;/p&gt;

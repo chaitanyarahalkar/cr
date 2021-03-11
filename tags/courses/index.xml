@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>courses | Chaitanya Rahalkar</title>
-    <link>https://www.cc.gatech.edu/~crahalkar3/tags/courses/</link>
-      <atom:link href="https://www.cc.gatech.edu/~crahalkar3/tags/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/courses/</link>
+      <atom:link href="/tags/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>courses</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2021</copyright>
     <image>
-      <url>https://www.cc.gatech.edu/~crahalkar3/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>courses</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/tags/courses/</link>
+      <link>/tags/courses/</link>
     </image>
     
     <item>
       <title>Awesome Learning</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/awesome-learning/</link>
+      <link>/awesome-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/awesome-learning/</guid>
+      <guid>/awesome-learning/</guid>
       <description>
 
 &lt;p&gt;I love to explore the vast field of Computer Science. I&amp;rsquo;ve dabbled with a variety of stuff over the past few years. While doing so, I&amp;rsquo;ve had to invest considerable amount of time in digging up resources from the corners of the Web. Also, people often ask me for suggestions regarding tutorials and courses about something they wish to learn.&lt;/p&gt;

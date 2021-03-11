@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bootstrap | Chaitanya Rahalkar</title>
-    <link>https://www.cc.gatech.edu/~crahalkar3/tags/bootstrap/</link>
-      <atom:link href="https://www.cc.gatech.edu/~crahalkar3/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/bootstrap/</link>
+      <atom:link href="/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
     <description>bootstrap</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2021</copyright><lastBuildDate>Sat, 18 May 2019 16:11:17 +0000</lastBuildDate>
     <image>
-      <url>https://www.cc.gatech.edu/~crahalkar3/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>bootstrap</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/tags/bootstrap/</link>
+      <link>/tags/bootstrap/</link>
     </image>
     
     <item>
       <title>How Your Computer Starts</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/how-your-computer-starts/</link>
+      <link>/post/how-your-computer-starts/</link>
       <pubDate>Sat, 18 May 2019 16:11:17 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/how-your-computer-starts/</guid>
+      <guid>/post/how-your-computer-starts/</guid>
       <description>
 
 &lt;p&gt;Every computer follows a standard boot sequence when it starts up.&lt;/p&gt;

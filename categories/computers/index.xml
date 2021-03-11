@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computers | Chaitanya Rahalkar</title>
-    <link>https://www.cc.gatech.edu/~crahalkar3/categories/computers/</link>
-      <atom:link href="https://www.cc.gatech.edu/~crahalkar3/categories/computers/index.xml" rel="self" type="application/rss+xml" />
+    <link>/categories/computers/</link>
+      <atom:link href="/categories/computers/index.xml" rel="self" type="application/rss+xml" />
     <description>Computers</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2021</copyright><lastBuildDate>Wed, 05 Jun 2019 01:15:35 +0000</lastBuildDate>
     <image>
-      <url>https://www.cc.gatech.edu/~crahalkar3/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Computers</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/categories/computers/</link>
+      <link>/categories/computers/</link>
     </image>
     
     <item>
       <title>File Permissions in Unix/Linux</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/file-permissions-in-unix-linux/</link>
+      <link>/post/file-permissions-in-unix-linux/</link>
       <pubDate>Wed, 05 Jun 2019 01:15:35 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/file-permissions-in-unix-linux/</guid>
+      <guid>/post/file-permissions-in-unix-linux/</guid>
       <description>
 
 &lt;h3 id=&#34;file-permissions&#34;&gt;File Permissions&lt;/h3&gt;
@@ -119,9 +119,9 @@ For example, the root user may have some privileged executables like curl,wget e
     
     <item>
       <title>How Your Computer Starts</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/how-your-computer-starts/</link>
+      <link>/post/how-your-computer-starts/</link>
       <pubDate>Sat, 18 May 2019 16:11:17 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/how-your-computer-starts/</guid>
+      <guid>/post/how-your-computer-starts/</guid>
       <description>
 
 &lt;p&gt;Every computer follows a standard boot sequence when it starts up.&lt;/p&gt;
@@ -226,9 +226,9 @@ However in the recent versions init is replaced by a System Management Daemon ca
     
     <item>
       <title>Virtualisation in Operating Systems</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/virtualisation-in-operating-systems/</link>
+      <link>/post/virtualisation-in-operating-systems/</link>
       <pubDate>Sat, 06 Apr 2019 12:05:37 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/virtualisation-in-operating-systems/</guid>
+      <guid>/post/virtualisation-in-operating-systems/</guid>
       <description>
 
 &lt;p&gt;Virtualisation is the process of creating a virtual version of a physical object.&lt;/p&gt;

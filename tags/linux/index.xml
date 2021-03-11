@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>linux | Chaitanya Rahalkar</title>
-    <link>https://www.cc.gatech.edu/~crahalkar3/tags/linux/</link>
-      <atom:link href="https://www.cc.gatech.edu/~crahalkar3/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/linux/</link>
+      <atom:link href="/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <description>linux</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2021</copyright><lastBuildDate>Mon, 16 Sep 2019 04:15:02 +0000</lastBuildDate>
     <image>
-      <url>https://www.cc.gatech.edu/~crahalkar3/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>linux</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/tags/linux/</link>
+      <link>/tags/linux/</link>
     </image>
     
     <item>
       <title>Understanding Dirty COW - The Linux Kernel Exploit</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/understanding-dirty-cow-the-infamous-linux-kernel-exploit/</link>
+      <link>/post/understanding-dirty-cow-the-infamous-linux-kernel-exploit/</link>
       <pubDate>Mon, 16 Sep 2019 04:15:02 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/understanding-dirty-cow-the-infamous-linux-kernel-exploit/</guid>
+      <guid>/post/understanding-dirty-cow-the-infamous-linux-kernel-exploit/</guid>
       <description>
 
 &lt;p&gt;Dirty COW is a computer security vulnerability that was discovered in the Linux Kernel in 2016. The exploit was registered under CVE with the designation: CVE-2016-5195. Dirty COW is a root privilege escalation exploit that attacks the Copy-On-Write mechanism in the Linux Kernel. Hence the &amp;ldquo;COW&amp;rdquo; in Dirty COW. The proof of concept can be found &lt;a href=&#34;http://dirtycow.ninja&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -130,9 +130,9 @@ Thread 2
     
     <item>
       <title>File Permissions in Unix/Linux</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/file-permissions-in-unix-linux/</link>
+      <link>/post/file-permissions-in-unix-linux/</link>
       <pubDate>Wed, 05 Jun 2019 01:15:35 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/file-permissions-in-unix-linux/</guid>
+      <guid>/post/file-permissions-in-unix-linux/</guid>
       <description>
 
 &lt;h3 id=&#34;file-permissions&#34;&gt;File Permissions&lt;/h3&gt;
@@ -235,9 +235,9 @@ For example, the root user may have some privileged executables like curl,wget e
     
     <item>
       <title>The Virtual File System</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/the-virtual-file-system/</link>
+      <link>/post/the-virtual-file-system/</link>
       <pubDate>Sat, 01 Jun 2019 14:04:37 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/the-virtual-file-system/</guid>
+      <guid>/post/the-virtual-file-system/</guid>
       <description>
 
 &lt;h3 id=&#34;file-systems-in-linux&#34;&gt;File Systems In Linux&lt;/h3&gt;
@@ -287,9 +287,9 @@ Here is a brief look at the file system structure -&lt;/p&gt;
     
     <item>
       <title>How Your Computer Starts</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/how-your-computer-starts/</link>
+      <link>/post/how-your-computer-starts/</link>
       <pubDate>Sat, 18 May 2019 16:11:17 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/how-your-computer-starts/</guid>
+      <guid>/post/how-your-computer-starts/</guid>
       <description>
 
 &lt;p&gt;Every computer follows a standard boot sequence when it starts up.&lt;/p&gt;
@@ -394,9 +394,9 @@ However in the recent versions init is replaced by a System Management Daemon ca
     
     <item>
       <title>A Guide to Partitions &amp; Partitioning Drives in Linux</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/a-guide-to-partitions-partitioning-drives-in-linux/</link>
+      <link>/post/a-guide-to-partitions-partitioning-drives-in-linux/</link>
       <pubDate>Thu, 16 May 2019 04:39:06 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/a-guide-to-partitions-partitioning-drives-in-linux/</guid>
+      <guid>/post/a-guide-to-partitions-partitioning-drives-in-linux/</guid>
       <description>
 
 &lt;p&gt;Linux has completely different naming conventions while mounting drives as compared to Windows. /dev/sda,/dev/sdb,/dev/sdc etc. are the conventions in Linux.&lt;/p&gt;
@@ -516,9 +516,9 @@ This is a good practice, since it forces completition of pending disk writes. It
     
     <item>
       <title>PATH Environment Variable in Linux/Unix</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/path-environment-variable-in-linux-unix/</link>
+      <link>/post/path-environment-variable-in-linux-unix/</link>
       <pubDate>Wed, 08 May 2019 16:59:15 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/path-environment-variable-in-linux-unix/</guid>
+      <guid>/post/path-environment-variable-in-linux-unix/</guid>
       <description>
 
 &lt;h5 id=&#34;what-is-the-path-environment-variable&#34;&gt;What is the $PATH environment variable?&lt;/h5&gt;

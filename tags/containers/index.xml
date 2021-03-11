@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>containers | Chaitanya Rahalkar</title>
-    <link>https://www.cc.gatech.edu/~crahalkar3/tags/containers/</link>
-      <atom:link href="https://www.cc.gatech.edu/~crahalkar3/tags/containers/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/containers/</link>
+      <atom:link href="/tags/containers/index.xml" rel="self" type="application/rss+xml" />
     <description>containers</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2021</copyright><lastBuildDate>Sat, 06 Apr 2019 12:05:37 +0000</lastBuildDate>
     <image>
-      <url>https://www.cc.gatech.edu/~crahalkar3/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>containers</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/tags/containers/</link>
+      <link>/tags/containers/</link>
     </image>
     
     <item>
       <title>Virtualisation in Operating Systems</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/virtualisation-in-operating-systems/</link>
+      <link>/post/virtualisation-in-operating-systems/</link>
       <pubDate>Sat, 06 Apr 2019 12:05:37 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/virtualisation-in-operating-systems/</guid>
+      <guid>/post/virtualisation-in-operating-systems/</guid>
       <description>
 
 &lt;p&gt;Virtualisation is the process of creating a virtual version of a physical object.&lt;/p&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>filesystem | Chaitanya Rahalkar</title>
-    <link>https://www.cc.gatech.edu/~crahalkar3/tags/filesystem/</link>
-      <atom:link href="https://www.cc.gatech.edu/~crahalkar3/tags/filesystem/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/filesystem/</link>
+      <atom:link href="/tags/filesystem/index.xml" rel="self" type="application/rss+xml" />
     <description>filesystem</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2021</copyright><lastBuildDate>Sat, 01 Jun 2019 14:04:37 +0000</lastBuildDate>
     <image>
-      <url>https://www.cc.gatech.edu/~crahalkar3/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>filesystem</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/tags/filesystem/</link>
+      <link>/tags/filesystem/</link>
     </image>
     
     <item>
       <title>The Virtual File System</title>
-      <link>https://www.cc.gatech.edu/~crahalkar3/post/the-virtual-file-system/</link>
+      <link>/post/the-virtual-file-system/</link>
       <pubDate>Sat, 01 Jun 2019 14:04:37 +0000</pubDate>
-      <guid>https://www.cc.gatech.edu/~crahalkar3/post/the-virtual-file-system/</guid>
+      <guid>/post/the-virtual-file-system/</guid>
       <description>
 
 &lt;h3 id=&#34;file-systems-in-linux&#34;&gt;File Systems In Linux&lt;/h3&gt;
