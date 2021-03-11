@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Chaitanya Rahalkar</title>
+    <link>https://www.cc.gatech.edu/~crahalkar3/categories/</link>
+      <atom:link href="https://www.cc.gatech.edu/~crahalkar3/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2021</copyright><lastBuildDate>Mon, 16 Sep 2019 04:15:02 +0000</lastBuildDate>
+    <image>
+      <url>https://www.cc.gatech.edu/~crahalkar3/img/icon-192.png</url>
+      <title>Categories</title>
+      <link>https://www.cc.gatech.edu/~crahalkar3/categories/</link>
+    </image>
+    
+    <item>
+      <title>Hacking</title>
+      <link>https://www.cc.gatech.edu/~crahalkar3/categories/hacking/</link>
+      <pubDate>Mon, 16 Sep 2019 04:15:02 +0000</pubDate>
+      <guid>https://www.cc.gatech.edu/~crahalkar3/categories/hacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://www.cc.gatech.edu/~crahalkar3/categories/linux/</link>
+      <pubDate>Mon, 16 Sep 2019 04:15:02 +0000</pubDate>
+      <guid>https://www.cc.gatech.edu/~crahalkar3/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://www.cc.gatech.edu/~crahalkar3/categories/technology/</link>
+      <pubDate>Sun, 14 Jul 2019 11:00:01 +0000</pubDate>
+      <guid>https://www.cc.gatech.edu/~crahalkar3/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computers</title>
+      <link>https://www.cc.gatech.edu/~crahalkar3/categories/computers/</link>
+      <pubDate>Wed, 05 Jun 2019 01:15:35 +0000</pubDate>
+      <guid>https://www.cc.gatech.edu/~crahalkar3/categories/computers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

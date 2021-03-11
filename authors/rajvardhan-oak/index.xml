@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rajvardhan Oak | Chaitanya Rahalkar</title>
+    <link>https://www.cc.gatech.edu/~crahalkar3/authors/rajvardhan-oak/</link>
+      <atom:link href="https://www.cc.gatech.edu/~crahalkar3/authors/rajvardhan-oak/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rajvardhan Oak</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Chaitanya Rahalkar © 2021</copyright><lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.cc.gatech.edu/~crahalkar3/img/icon-192.png</url>
+      <title>Rajvardhan Oak</title>
+      <link>https://www.cc.gatech.edu/~crahalkar3/authors/rajvardhan-oak/</link>
+    </image>
+    
+    <item>
+      <title>Using Generative Adversarial Networks for Secure Pseudorandom Number Generation</title>
+      <link>https://www.cc.gatech.edu/~crahalkar3/publication/gan-ccs/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.cc.gatech.edu/~crahalkar3/publication/gan-ccs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
