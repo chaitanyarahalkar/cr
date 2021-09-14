@@ -94,13 +94,13 @@ date_format = "Jan 2006"
   date_end = "2019-07-20"
   description = """
   1. Bank Reconciliation Solution -
-  - Developed a backend system using Django framework for the administration panel
-  - Worked on developing a software that reconciles transaction records of the bank and transaction history of its customers.
-  - Used data analytics to provide a statistical overview of the reconciled records.
-  - Audited the codebase for security vulnerabilities.
+      - Developed a backend system using Django framework for the administration panel
+      - Worked on developing a software that reconciles transaction records of the bank and transaction history of its customers.
+      - Used data analytics to provide a statistical overview of the reconciled records.
+      - Audited the codebase for security vulnerabilities.
   2. OTT (over-the-top) Video Streaming Solution -
-  - Worked on a scalable architectural design of a video on-demand solution used by more than 500,000 users.
-  - Audited the backend Cordova (iOS + Android native app development framework) for security issues and vulnerabilities.
+      - Worked on a scalable architectural design of a video on-demand solution used by more than 500,000 users.
+      - Audited the backend Cordova (iOS + Android native app development framework) for security issues and vulnerabilities.
   """
 
 
