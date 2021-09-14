@@ -17,19 +17,30 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "Graduate Teachning Assistant"
+  company = "Georgia Institute of Technology"
+  company_url = "https://gatech.edu"
+  location = "Pune, India"
+  date_start = "2021-08-15"
+  date_end = "2022-08-14"
+  description = """
+   - Grading projects and reports
+   - Setting and evaluating exams
+   - Assisting and advising students on relevant topics & research"""
 
 [[experience]]
-  title = "Full Time Employee"
+  title = "Security Engineer"
   company = "BosLeo Technologies"
   company_url = "https://bosleo.com"
   location = "Pune, India"
   date_start = "2019-07-07"
   date_end = "2021-01-01"
   description = """
-   1. Developed a Software-Defined Perimeter prototype backed by a Zero Trust Network architecture. 
-   2. Developed Anti-Virus, Anti-Phishing, Software Isolation, Application Firewall etc. modules as a part of the company’s Endpoint Security solution.
-   3. Worked on the design, development and deployment of a network-based intrusion detection system (NIDS) supplemented with an intrusion analytics and insights system.
-   4. Worked on the design and development of a digital inventory management system (DISM) that keeps track of software versions and corporate hardware devices."""
+   -  Developed a Software-Defined Perimeter prototype backed by a Zero Trust Network architecture. 
+   - Developed Anti-Virus, Anti-Phishing, Software Isolation, Application Firewall etc. modules as a part of the company’s Endpoint Security solution.
+   - Worked on the design, development and deployment of a network-based intrusion detection system (NIDS) supplemented with an intrusion analytics and insights system.
+   - Worked on the design and development of a digital inventory management system (DISM) that keeps track of software versions and corporate hardware devices."""
 
 
 [[experience]]
@@ -39,7 +50,11 @@ date_format = "Jan 2006"
   location = "Pune, India"
   date_start = "2019-06-06"
   date_end = "2020-06-06"
-  description = """Worked on <i> End-to-End Lung Cancer Screening with Chest Computed Tomography Scans using CNNs and XAI </i> under the guidance of Dr. Bhushan Garware. The project is highly inspired by <a href="https://www.nature.com/articles/s41591-019-0447-x"> this </a> research paper and aims to outperform the current state of the art results.  """
+  description = """
+  -  Worked on End-to-End Lung Cancer Screening with Chest Computed Tomography Scans using Convolutional Neural Networks.
+  - Worked on creating a unified interface for radiologists & researchers to analyze CT scans.
+  - Supplemented the unified application using XAI (Explainable AI) to simplify the analysis of the scans.
+  """
   
 [[experience]]
   title = "Project Intern"
@@ -48,7 +63,11 @@ date_format = "Jan 2006"
   location = "Pune, India"
   date_start = "2019-06-29"
   date_end = "2019-11-11"
-  description = """Worked on a Zero trust security framework model that allows corporate employees to work securely from any location eliminating the need of VPNs. Check out the project <a href="https://github.com/chaitanyarahalkar/Quick-Heal-Project">here</a>. """
+  description = """
+  - Developed a secure central authentication service (CAS).
+  - Designed SDKs for Python and Golang to integrate the CAS with web applications.
+  - Developed the PoC using open-source programs and frameworks - Django, OSQuery, MongoDB, and Redis (Caching System) and PyInstaller (Code packaging)
+  """
 
 
 [[experience]]
@@ -58,7 +77,12 @@ date_format = "Jan 2006"
   location = "Pune, India"
   date_start = "2019-05-20"
   date_end = "2019-07-20"
-  description = """Worked on study of side-channel attacks that target virtualisation level (the lowest level of the software stack)   , where the attacker intends to exploit private information from the set of target virtual machines running on the cloud platform."""
+  description = """
+  - Worked on the study of side-channel attacks that target the virtualization level (the lowest level of the software stack) of an Operating System.
+  - Assisted in creating a meta classifier-based ensemble learning model for attack detection.
+  - Developed a granular performance monitoring script to generate system logs.
+  - Researched various techniques used by attackers to exploit private information from the set of target virtual machines running on cloud platforms.
+  """
 
 
 [[experience]]
@@ -68,7 +92,16 @@ date_format = "Jan 2006"
   location = "Pune, India"
   date_start = "2019-01-20"
   date_end = "2019-07-20"
-  description = """Worked on a bank reconciliation project. Designed and deployed Oracle database on a VPS. Developed a backend system using Django framework for the administration panel, that reconciles transaction records of the bank and transaction history of its customers. Used data analytics to provide a statistical overview of the reconciled records."""
+  description = """
+  1. Bank Reconciliation Solution -
+  - Developed a backend system using Django framework for the administration panel
+  - Worked on developing a software that reconciles transaction records of the bank and transaction history of its customers.
+  - Used data analytics to provide a statistical overview of the reconciled records.
+  - Audited the codebase for security vulnerabilities.
+  2. OTT (over-the-top) Video Streaming Solution -
+  - Worked on a scalable architectural design of a video on-demand solution used by more than 500,000 users.
+  - Audited the backend Cordova (iOS + Android native app development framework) for security issues and vulnerabilities.
+  """
 
 
 +++
