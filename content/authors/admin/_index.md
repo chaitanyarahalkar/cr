@@ -86,4 +86,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a Computer Engineer in the making and a Tech enthusiast at heart. I love exploring and talking about Computer internals. My passion lies in building things with my power of programming. Check out my noteworthy projects and Open Source contributions on [GitHub](https://github.com/chaitanyarahalkar).
+I'm a Cybersecurity Engineer in the making and a Tech enthusiast at heart. I love exploring and talking about Computer internals. My passion lies in building things with my power of programming. Check out my noteworthy projects and Open Source contributions on [GitHub](https://github.com/chaitanyarahalkar).

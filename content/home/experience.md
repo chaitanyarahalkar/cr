@@ -19,13 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Intern"
+  title = "Full Time Employee"
   company = "BosLeo Technologies"
   company_url = "https://bosleo.com"
   location = "Pune, India"
   date_start = "2019-07-07"
   date_end = "2021-01-01"
-  description = """Working on the design and development of a secure software-defined perimeter network. Building, a secure and robust SDN interface, supported with high performance aspects."""
+  description = """
+   - Developed a Software-Defined Perimeter prototype backed by a Zero Trust Network architecture. 
+   - Developed Anti-Virus, Anti-Phishing, Software Isolation, Application Firewall etc. modules as a part of the company’s Endpoint Security solution.
+   - Worked on the design, development and deployment of a network-based intrusion detection system (NIDS) supplemented with an intrusion analytics and insights system.
+   - Worked on the design and development of a digital inventory management system (DISM) that keeps track of software versions and corporate hardware devices."""
 
 
 [[experience]]
