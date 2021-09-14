@@ -26,10 +26,10 @@ date_format = "Jan 2006"
   date_start = "2019-07-07"
   date_end = "2021-01-01"
   description = """
-   - Developed a Software-Defined Perimeter prototype backed by a Zero Trust Network architecture. 
-   - Developed Anti-Virus, Anti-Phishing, Software Isolation, Application Firewall etc. modules as a part of the company’s Endpoint Security solution.
-   - Worked on the design, development and deployment of a network-based intrusion detection system (NIDS) supplemented with an intrusion analytics and insights system.
-   - Worked on the design and development of a digital inventory management system (DISM) that keeps track of software versions and corporate hardware devices."""
+   1. Developed a Software-Defined Perimeter prototype backed by a Zero Trust Network architecture. 
+   2. Developed Anti-Virus, Anti-Phishing, Software Isolation, Application Firewall etc. modules as a part of the company’s Endpoint Security solution.
+   3. Worked on the design, development and deployment of a network-based intrusion detection system (NIDS) supplemented with an intrusion analytics and insights system.
+   4. Worked on the design and development of a digital inventory management system (DISM) that keeps track of software versions and corporate hardware devices."""
 
 
 [[experience]]
