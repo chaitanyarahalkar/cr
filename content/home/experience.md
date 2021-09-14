@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://bosleo.com"
   location = "Pune, India"
   date_start = "2019-07-07"
-  date_end = ""
+  date_end = "2021-01-01"
   description = """Working on the design and development of a secure software-defined perimeter network. Building, a secure and robust SDN interface, supported with high performance aspects."""
 
 

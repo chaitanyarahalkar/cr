@@ -74,7 +74,7 @@ social:
   link: https://dev.to/chaitanyarahalkar
 - icon: key
   icon_pack: fas
-  link: https://rahalkar.xyz/key.asc
+  link: https://rahalkar.dev/key.asc
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
