@@ -1,6 +1,5 @@
 ---
-title: Summarizing and Analyzing the Privacy-Preserving Techniques in Bitcoin and other
-Cryptocurrencies
+title: Summarizing and Analyzing the Privacy-Preserving Techniques in Bitcoin and other Cryptocurrencies
 event:  CS 8803 Project Session
 event_url: https://gatech.edu
 
