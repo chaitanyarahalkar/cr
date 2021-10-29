@@ -9,9 +9,7 @@ address:
   city: Atlanta
   country: United States
 
-summary: A talk about the Zero-Day exploit used by the NSO group on Ahmed Mansoor, its backstory, exploit and network
-infrastructure.  
-
+summary: A talk about the Zero-Day exploit used by the NSO group on Ahmed Mansoor, its backstory, exploit and network infrastructure. 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-10-29T11:00:00Z"
