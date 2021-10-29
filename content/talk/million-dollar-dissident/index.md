@@ -20,7 +20,7 @@ all_day: false
 publishDate: ""
 
 authors: ["Chaitanya Rahalkar","Nathan Lee Jaco"]
-tags: ["security","hacking", "]
+tags: ["security","hacking"]
 
 # Is this a featured talk? (true/false)
 featured: true
